@@ -4,6 +4,8 @@
 
 pnpm-lock.yaml
 
+node_modules
+
 *.iml
 *.iws
 *.ipr
