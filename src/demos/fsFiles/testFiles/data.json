@@ -1,0 +1,10 @@
+{
+  "name": "kayn",
+  "age": 25,
+  "skills": [
+    "js",
+    "vue",
+    "react",
+    "node"
+  ]
+}
